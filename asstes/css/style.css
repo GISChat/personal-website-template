@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #ffffff; /* 将背景设置为白色 */
+    color: #000000; /* 设置文本为黑色 */
+  }
+  
